@@ -1,0 +1,2 @@
+# SSCLNET-A-Self-Supervised-Contrastive-Loss-Based-Pre-Trained-Network-For-Brain-MRI-Classification
+SSCLNET is a self-supervised contrastive loss-based pre-trained network designed for brain MRI classification. It leverages contrastive learning techniques to learn meaningful representations from brain MRI images without requiring labeled data. The model is pre-trained using a self-supervised approach, which enables it to effectively 
